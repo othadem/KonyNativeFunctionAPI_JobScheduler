@@ -9,10 +9,11 @@ Application to showcase the Kony native function api feature of KonyVisualizer u
 
 # To run this app
 
-1. Download the project
-2. Import project to your Kony IDE(Kony Visualizer).
-3. Enable Mobile First Api's in the project setting >native >android.
-4. Build & run the app for android.
+1. Download the project.
+2. Unzip the downloaded project.
+3. Import project to your Kony IDE(Kony Visualizer).
+4. Enable Mobile First Api's in the project setting >native >android.
+5. Build & run the app for android.
 
 # Supported platforms:
 **Mobile**
